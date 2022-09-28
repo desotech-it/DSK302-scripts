@@ -1,0 +1,36 @@
+namespace/trouble01 created
+namespace/trouble02 created
+namespace/trouble03 created
+namespace/trouble04 created
+node/worker01 tainted
+node/worker02 tainted
+node/worker03 tainted
+node/worker04 tainted
+pod/opa created
+pod/httpd created
+pod/labs created
+pod/ubu created
+deployment.apps/deployment-test created
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Warning: Permanently added the ECDSA host key for IP address '10.10.10.14' to the list of known hosts.
+
+  System information as of Wed 28 Sep 2022 07:54:14 AM UTC
+
+  System load:  0.14               Processes:               233
+  Usage of /:   28.9% of 38.26GB   Users logged in:         0
+  Memory usage: 15%                IPv4 address for ens160: 10.10.10.14
+  Swap usage:   0%
+---------------------------------------------------------------
+
+Welcome to Desotech Labs
+
+You are connected on worker04 node.
+
+Ubuntu 20.04
+deployed on x86_64 architecture.
+
+Your IP address: 10.10.10.14
+Your network interface: ens160
+
+---------------------------------------------------------------
+deployment.apps/deployment-4 created
